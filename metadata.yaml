@@ -1,0 +1,35 @@
+_repo: The-Narrow-House_42534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Evelyn
+    aliases:
+    - Dunn, Elsie
+    - Metcalfe, Elsie Dunn Wellman
+    - Wellman, Elsie Dunn
+    - Scott, Evelyn D. (Evelyn Dunn)
+    birthdate: 1893
+    deathdate: 1963
+    gutenberg_agent_id: '1494'
+    url: http://www.gutenberg.org/2009/agents/1494
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Scott
+description: The work of American modernist novelist Evelyn Scott has been compared
+  favorably to that of Henry James and Marcel Proust. The Narrow House is a masterpiece
+  of moodiness that offers keen -- and often unsettling -- insight into the inner
+  workings of the human psyche.
+gutenberg_issued: '2013-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Narrow House
+url: http://www.gutenberg.org/ebooks/42534
